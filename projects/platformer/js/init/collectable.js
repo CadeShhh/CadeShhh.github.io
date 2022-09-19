@@ -39,7 +39,21 @@
     // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
 
     // example:
-    createCollectable(type.steve, 200, 170, 6, 0.7);
+    
+    createCollectable(type.db, 420, 540);              // level 1 middle platform collectable
+
+    createCollectable(type.max, 90, 440);              //level 2 left platform collectable
+
+    createCollectable(type.max, 750, 440);             //level 2 right platform collectable
+
+    createCollectable(type.steve, 405, 300, 12, 0.9);  //level 3 middle platform collectable
+    
+    createCollectable(type.grace, 169, 230, 6, 0.7);   //level 4 left plaform collectable
+    
+    createCollectable(type.grace, 680, 230, 6, 0.7);   //level 4 right platform collectable
+
+    createCollectable(type.kennedi, 425, 180);          //level 5 middle platform collectable
+
 
     // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
     ////////////////////////////////////////////////////////////////////////

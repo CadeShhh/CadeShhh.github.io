@@ -27,7 +27,17 @@
     // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
 
     // example:
-    createCannon("top", 450);
+    createCannon("bottom", 450, 1200);  //bottom of screen cannon
+
+    createCannon("left", 300, 1500);    //left of screen 4th level cannon
+
+    createCannon("top", 50);      //top of screen spawn point "death" cannon
+
+    
+
+    
+
+    
 
     // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
     ////////////////////////////////////////////////////////////////////////
